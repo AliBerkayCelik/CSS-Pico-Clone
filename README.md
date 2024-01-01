@@ -15,6 +15,9 @@ Bunu yaptıktan sonra aşağıdaki görselde dark yazan yere light yazıp enter 
 
 ![img](assets/2.png)
 
+
+<b>Projenin canlı haline bakmak için [buraya tıklayınız.](https://aliberkaycelik-css-pico-clone.netlify.app/)
+
 ### Dark Tema:
 
 ![Alt text](assets/4.png)
